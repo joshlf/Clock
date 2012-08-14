@@ -1,3 +1,7 @@
+// Copyright 2012 The Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
 PFont LCGrande, LCGrandeBold;
 int seconds = 0, secondcount = 0, minutes = 0, hours = 12, hourfrac = 0, hourdisplay;
 boolean am = true, ambool = true;
